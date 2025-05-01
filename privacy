@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>隱私權政策</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 font-sans">
+    <header class="bg-blue-600 text-white py-4">
+        <div class="container mx-auto px-4">
+            <h1 class="text-2xl font-bold">隱私權政策</h1>
+        </div>
+    </header>
+    <main class="container mx-auto px-4 py-8">
+        <section class="bg-white p-6 rounded-lg shadow-md">
+            <h2 class="text-xl font-semibold mb-4">1. 引言</h2>
+            <p class="mb-4">歡迎訪問我們的網站。我們非常重視您的隱私，並致力於保護您的個人資料。本隱私權政策說明我們如何收集、使用、分享及保護您的資訊。</p>
+
+            <h2 class="text-xl font-semibold mb-4">2. 我們收集的資訊</h2>
+            <p class="mb-4">我們可能收集以下類型的資訊：</p>
+            <ul class="list-disc pl-6 mb-4">
+                <li>個人識別資訊（如姓名、電子郵件地址、電話號碼等）</li>
+                <li>技術資料（如IP地址、瀏覽器類型、設備資訊等）</li>
+                <li>使用資料（如您與網站的互動、瀏覽行為等）</li>
+            </ul>
+
+            <h2 class="text-xl font-semibold mb-4">3. 資訊的使用</h2>
+            <p class="mb-4">我們可能將您的資訊用於以下目的：</p>
+            <ul class="list-disc pl-6 mb-4">
+                <li>提供和改進我們的服務</li>
+                <li>與您聯繫並回應您的詢問</li>
+                <li>分析網站使用情況以提升用戶體驗</li>
+                <li>遵守法律義務</li>
+            </ul>
+
+            <h2 class="text-xl font-semibold mb-4">4. 資訊分享</h2>
+            <p class="mb-4">我們不會未經您的同意將您的個人資訊出售或分享給第三方，但可能在以下情況下分享：</p>
+            <ul class="list-disc pl-6 mb-4">
+                <li>與服務提供商合作以提供網站功能</li>
+                <li>根據法律要求或保護我們的權利</li>
+            </ul>
+
+            <h2 class="text-xl font-semibold mb-4">5. 您的權利</h2>
+            <p class="mb-4">根據適用法律，您可能擁有以下權利：</p>
+            <ul class="list-disc pl-6 mb-4">
+                <li>訪問、更正或刪除您的個人資料</li>
+                <li>反對或限制我們處理您的資料</li>
+                <li>資料可攜性權利</li>
+            </ul>
+            <p class="mb-4">如需行使這些權利，請通過以下聯繫方式與我們聯繫。</p>
+
+            <h2 class="text-xl font-semibold mb-4">6. 資料安全</h2>
+            <p class="mb-4">我們採取合理的技術和組織措施來保護您的資料免受未經授權的訪問或洩露。然而，互聯網傳輸並非完全安全，我們無法保證絕對的安全。</p>
+
+            <h2 class="text-xl font-semibold mb-4">7. 隱私權政策的變更</h2>
+            <p class="mb-4">我們可能會不時更新本隱私權政策。任何變更將於本頁面發布，並在適用的情況下通知您。請定期查看本頁面以了解最新資訊。</p>
+
+            <h2 class="text-xl font-semibold mb-4">8. 聯繫我們</h2>
+            <p class="mb-4">如對本隱私權政策有任何疑問，請通過以下方式聯繫我們：</p>
+            <p class="mb-4">電子郵件：<a href="mailto:xbon510@gmail.com" class="text-blue-600 hover:underline">privacy@yourcompany.com</a></p>
+            <p>地址：您的公司地址</p>
+        </section>
+    </main>
+    <footer class="bg-gray-800 text-white py-4">
+        <div class="container mx-auto px-4 text-center">
+            <p>&copy; 2025保留所有權利。</p>
+        </div>
+    </footer>
+</body>
+</html>
